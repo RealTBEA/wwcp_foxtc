@@ -445,9 +445,9 @@ public class Transport {
 
     //E94
     public static LocomotiveNoBackspeed BR103() {
-        return new LocomotiveNoBackspeed("BR103", "Germany", "1940-1995", "Electric",
+        return new LocomotiveNoBackspeed("BR103", "Germany", "1970-2003", "Electric",
                 nick, "", type, " Passenger Locomotive",
-                40000.0f, 4429.0f, 118.5f, 100f, false, true, 0);
+                70000f, 9980f, 114f, 200f, false, true, 0);
     }
 
     public static LocomotiveNoBackspeed ES64U2() {
@@ -1095,7 +1095,7 @@ public class Transport {
     public static LocomotiveNoBackspeed MZIII() {
         return new LocomotiveNoBackspeed("MZIII", "Denmark", "1972-", "Diesel",
                 nick, " Cake Tins", type, " Universal Locomotive",
-                88000f, 3854f, 121.2f, 165f, false, true, 0);
+                88000f, 3854f, 125.0f, 165f, false, true, 0);
     }
 
     //MZ Class III 1972
@@ -1121,9 +1121,9 @@ public class Transport {
 
     //Class Me
     public static LocomotiveNoBackspeed ClassME() {
-        return new LocomotiveNoBackspeed("ClassME", "Denmark", "1981-", "Diesel",
+        return new LocomotiveNoBackspeed("ClassME", "Denmark", "1981-2021", "Diesel",
                 nick, "", type, " Universal Locomotive",
-                88000f, 3253f, 116.5f, 143f, false, true, 0);
+                88000f, 3253f, 116.5f, 175f, false, true, 0);
     }
 
     //Class MK
@@ -1929,10 +1929,10 @@ public class Transport {
                 "", type, " Boxcar", 15f, 120f, false, true, 0);
     }
 
-    //Sggnss 60 3 TATEU
-    public static TankCars Sgnss60Load1() {
-        return new TankCars("SGNSS 60 3 TATEU", "Europe", "2006-", "",
-                "", type, " Freight Container", 21.5f, 120f, false, true, 0, 60000);
+    //Hbbillns
+    public static Rollingstock SGNSS60() {
+        return new Rollingstock("SGNSS60", "Europe", "1990s", "",
+                "", type, " Freight container", 15f, 120f, false, true, 0);
     }
 
     //Sggnss 60 2 TATEU

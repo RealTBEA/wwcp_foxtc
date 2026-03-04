@@ -284,12 +284,17 @@ item.tc:minecartW_A11	SEC W-A11	com.jcirmodelsquad.tcjcir.vehicles.locomotives.e
 item.tc:minecartW_A55	SEC W-A55	com.jcirmodelsquad.tcjcir.vehicles.locomotives.eletric.ElectricW_A55	W_A55_
 item.tc:minecartW_A55_Combine	SEC W-A55 Combine	com.jcirmodelsquad.tcjcir.vehicles.locomotives.eletric.ElectricW_A55_Combine	W_A55_Combine_
 item.wwcp:RheingoldSalon1Christmas	SA4u28Christmas	wwcp.common.entity.passenger.Christmas.Entity1stClassRheingoldChristmas	ChristmasSalon
+item.wwcp:RheingoldKitchen1	RheingoldKitchen1	wwcp.common.entity.passenger.Rheingold1928.Entity1stClassRheingoldKitchen	RheingoldKitchen1
 item.wwcp:RheingoldSpeise1Christmas	RheingoldSpeise1Christmas	wwcp.common.entity.passenger.Christmas.Entity1stClassRheingoldKitchenChristmas	ChristmasSpeise1
+item.wwcp:RheingoldSalon1	RheingoldSalon1	wwcp.common.entity.passenger.Rheingold1928.Entity1stClassRheingoldSalon	RheingoldSalon1
 item.wwcp:RheingoldSalon2Christmas	RheingoldSalon2Christmas	wwcp.common.entity.passenger.Christmas.Entity2ndClassRheingoldChristmas	ChristmasSalon
+item.wwcp:RheingoldKitchen2	RheingoldKitchen2	wwcp.common.entity.passenger.Rheingold1928.Entity2ndClassRheingoldKitchen	RheingoldKitchen2
 item.wwcp:RheingoldSpeise2Christmas	RheingoldSpeise2Christmas	wwcp.common.entity.passenger.Christmas.Entity2ndClassRheingoldKitchenChristmas	ChristmasSalon
+item.wwcp:RheingoldSalon2	RheingoldSalon2	wwcp.common.entity.passenger.Rheingold1928.Entity2ndClassRheingoldSalon	RheingoldSalon2
 item.wwcp:AAR40ft	AAR40ft	wwcp.common.entity.freight.EntityAAR40ft	AAR40ft
 item.wwcp:BR103	BR103	wwcp.common.entity.locomotives.electrics.EntityBR103	BR103
 item.wwcp:BR145	BR145	wwcp.common.entity.locomotives.electrics.EntityBR145	BR145
+item.wwcp:BR215	V160	wwcp.common.entity.locomotives.diesels.EntityBR215	DB BR 215
 item.tc:minecartLocoDD35B	DD35 B Unit	train.common.entity.rollingStock.EntityBUnitDD35	dd35b_
 item.tc:minecartBoxCartPRR	Freight Box Cart PRR	train.common.entity.rollingStock.freight.EntityBoxCartPRR	PRR_X31a
 item.tc:minecartBoxCartUS	Freight Box Cart US	train.common.entity.rollingStock.freight.EntityBoxCartUS	boxCartUS_
@@ -305,17 +310,25 @@ item.tc:minecartCabooseLogging	Caboose Logging	train.common.entity.rollingStock.
 item.tc:minecartCabooseLoggingPRR	PRR Caboose Logging	train.common.entity.rollingStock.workcart.EntityCabooseLoggingPRR	PRRCaboose_
 item.tc:minecartCabooseWork	Work Caboose	train.common.entity.rollingStock.workcart.EntityCabooseWorkCart	workcaboose
 item.wwcp:ChristmasBR01	ChristmasBR01	wwcp.common.entity.locomotives.steam.EntityChristmasBR01	ChristmasBR01
+item.wwcp:DSB735	DSB735	wwcp.common.entity.freight.EntityDSB735	GS
+item.wwcp:DSBE	DSBE	wwcp.common.entity.freight.EntityDSBEHopper	DSBE
+item.wwcp:DSBFII	DSBFII	wwcp.common.entity.locomotives.steam.EntityDSBFII	DSB F II
+item.wwcp:DSBFIII	DSBFIII	wwcp.common.entity.locomotives.steam.EntityDSBFIII	DSB F III
+item.wwcp:DSBMH	ClassMH	wwcp.common.entity.locomotives.diesels.EntityDSBMH	DSB MH
+item.wwcp:DSBZE	DSBZE	wwcp.common.entity.freight.EntityDSBZETanker	DSBZETanker
 item.wwcp:EF4	EF4	wwcp.common.entity.locomotives.electrics.EntityEF4	EF4
 item.wwcp:EP2	EP2	wwcp.common.entity.locomotives.electrics.EntityEP2	EP2
 item.wwcp:EP2_Center	EP2_Center	wwcp.common.entity.freight.EntityEP2_Center	EntityEP2_Center
 item.wwcp:EP3	EP3	wwcp.common.entity.locomotives.electrics.EntityEP3	EP3
 item.wwcp:ES2	ES2	wwcp.common.entity.locomotives.electrics.EntityES2	ES2
 item.wwcp:ES64U2	ES64U2	wwcp.common.entity.locomotives.electrics.EntityES64U2	ES64U2
+item.wwcp:ES64U4	ES64U4	wwcp.common.entity.locomotives.electrics.EntityES64U4	ES64U4
 item.wwcp:EurofimaCompartment1_2	EurofimaCompartments1_2	wwcp.common.entity.passenger.Eurofima.EntityEurofima1st2ndClassCompartment	Eurofima1_2_Compartment
 item.wwcp:EurofimaOpen1	Eurofima Open 1	wwcp.common.entity.passenger.Eurofima.EntityEurofima1stClass	Eurofima1stClass
 item.wwcp:EurofimaCompartment1	EurofimaCompartments1	wwcp.common.entity.passenger.Eurofima.EntityEurofima1stClassCompartment	Eurofima1stClassCompartment
 item.wwcp:EurofimaPanorama	Eurofima Panorama	wwcp.common.entity.passenger.Eurofima.EntityEurofimaPanorama	Eurofima1_2_Compartment
 item.wwcp:F7A	F7A	wwcp.common.entity.locomotives.diesels.EntityF7A	F7A
+item.wwcp:EurofimaPresidentiale	EurofimaPresidentiale	wwcp.common.entity.passenger.Eurofima.EntityEurofimaPresidentiale	EurofimaPresidentiale
 item.tc:minecartFlatCartLogs_DB	Freight Flat Cart Logs DB	train.common.entity.rollingStock.freight.EntityFlatCarLogs_DB	flatCarLogs_DB_
 item.tc:minecartFlatCartRail_DB	Freight Flat Cart Rails DB	train.common.entity.rollingStock.freight.EntityFlatCarRails_DB	flatCarRails_DB_
 item.tc:minecartFlatCart_DB	Flat Cart DB	train.common.entity.rollingStock.freight.EntityFlatCar_DB	flatCar_DB_
@@ -363,11 +376,14 @@ item.wwcp:G322	ClassMK	wwcp.common.entity.locomotives.diesels.EntityG322	G322
 item.wwcp:GP30	GP30	wwcp.common.entity.locomotives.diesels.EntityGP30	GP30
 item.wwcp:GP35	GP35	wwcp.common.entity.locomotives.diesels.EntityGP35	GP35
 item.wwcp:GP60M	GP60M	wwcp.common.entity.locomotives.diesels.EntityGP60M	GP60M
+item.wwcp:GS	GS	wwcp.common.entity.freight.EntityGS	GS
 item.tc:minecartGWRBrakeVan	GWR Toad Brake Van	train.common.entity.rollingStock.workcart.EntityGWRBrakeVan	GWRBrakeVan
 item.wwcp:Gunderson596Woodchip	Gunderson596Woodchip	wwcp.common.entity.freight.EntityGunderson596Woodchip	Gunderson596Woodchip
 item.wwcp:Habbiins_17	Habbiins_17	wwcp.common.entity.freight.EntityHabbiins17	Habbiins_17
+item.wwcp:Hbbillns	Hbbillns	wwcp.common.entity.freight.EntityHbbillns	Hbbillns
 item.wwcp:Hbbins	Hbbins	wwcp.common.entity.freight.EntityHbbins	Hbbins
 item.tc:minecartJukeBoxCart	JukeBox Cart	train.common.entity.rollingStock.EntityJukeBoxCart	jukebox
+item.wwcp:Lgns	Lgns	wwcp.common.entity.freight.EntityLgns	Lgns
 item.tc:minecartLoco44TonSwitcher	GE 44-ton Diesel switcher	train.common.entity.rollingStock.diesel.EntityLocoDiesel44TonSwitcher	loco_44tonswitcher_
 item.tc:minecartTrainBamboo	Bamboo Flatcar Engine	train.common.entity.rollingStock.diesel.EntityLocoDieselBamboo	loco_bamboo_
 item.tc:minecartCD742	Loco Diesel CD742	train.common.entity.rollingStock.diesel.EntityLocoDieselCD742	cd742_
@@ -438,6 +454,11 @@ item.tc:minecartLocoUSATCUS	Loco Steam USATCUS	train.common.entity.rollingStock.
 item.tc:minecartLocoSteamVBShay	Loco Steam VB Shay	train.common.entity.rollingStock.steam.EntityLocoSteamVBShay	vbshay
 item.wwcp:M630	M630	wwcp.common.entity.locomotives.diesels.EntityM630	M630
 item.wwcp:M640	M640	wwcp.common.entity.locomotives.diesels.EntityM640	M640
+item.wwcp:ME	ClassME	wwcp.common.entity.locomotives.diesels.EntityME	DSB ME
+item.wwcp:MZI	MZI	wwcp.common.entity.locomotives.diesels.EntityMZI	DSB MZ I
+item.wwcp:MZII	MZII	wwcp.common.entity.locomotives.diesels.EntityMZII	DSB MZ II
+item.wwcp:MZIII	MZIII	wwcp.common.entity.locomotives.diesels.EntityMZIII	DSB MZ III
+item.wwcp:MZIV	MZIV	wwcp.common.entity.locomotives.diesels.EntityMZIV	DSB MZ IV
 item.tc:minecartMailWagon_DB	Mail Wagon DB	train.common.entity.rollingStock.workcart.EntityMailWagen_DB	mailWagen_DB
 item.wwcp:OpenTriLevelAutorack	OpenTriLevelAutorack	wwcp.common.entity.freight.EntityOpenTriLevelAutorack	OpenTriLevelAutorack
 item.wwcp:PS2Early3Bay	PS2Early3Bay	wwcp.common.entity.freight.EntityPS2Early3Bay	PS2Early3Bay
@@ -474,11 +495,13 @@ item.tc:minecartPropagandaUSSR	Propaganda USSR	train.common.entity.rollingStock.
 item.wwcp:RS10	RS10	wwcp.common.entity.locomotives.diesels.EntityRS10	RS10
 item.wwcp:RS18	RS18	wwcp.common.entity.locomotives.diesels.EntityRS18	RS18
 item.wwcp:RS18C	RS18C	wwcp.common.entity.locomotives.diesels.EntityRS18C	RS18C
+item.wwcp:RheingoldBagage	RheingoldBagage	wwcp.common.entity.passenger.Rheingold1928.EntityRheingoldBaggage	RheingoldBaggage
 item.wwcp:SD45	SD45	wwcp.common.entity.locomotives.diesels.EntitySD45	SD45
 item.wwcp:SD45X	SD45X	wwcp.common.entity.locomotives.diesels.EntitySD45X	SD45X
 item.wwcp:SD70M	SD70M	wwcp.common.entity.locomotives.diesels.EntitySD70M	SD70M
 item.wwcp:SD75I	SD75I	wwcp.common.entity.locomotives.diesels.EntitySD75I	SD75I
 item.wwcp:SD75M	SD75M	wwcp.common.entity.locomotives.diesels.EntitySD75M	SD75M
+item.wwcp:SGNSS60	SGNSS60	wwcp.common.entity.freight.EntitySGNSS60	SGGNS60
 item.wwcp:SLRV	SLRV	wwcp.common.entity.locomotives.electrics.EntitySLRV	SLRV
 item.wwcp:SLRVC	SLRVC	wwcp.common.entity.passenger.EntitySLRVC	SLRVC
 item.tc:minecartStockCar	Stock Cart	train.common.entity.rollingStock.EntityStockCar	stockcar_
