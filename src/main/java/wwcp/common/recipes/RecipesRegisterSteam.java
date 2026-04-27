@@ -52,7 +52,7 @@ public class RecipesRegisterSteam extends AbstractRecipeHandler {
                 null,
                 null,
                 null,
-                TCItemStack(CoalItem, 2),
+                CoalItem(2),
                 TCItemStack(WaterBucketItem, 1),
                 null,
                 new ItemStack(ItemIDs.bogie.item, 4),
