@@ -15,27 +15,27 @@ public class RecipesRegisterElectrics extends AbstractRecipeHandler {
         //EP3
         betterAddRecipe(2, new ItemStack(ItemIDs.steelcab.item, 2), new ItemStack(ItemIDs.pantograph.item, 2), new ItemStack(ItemIDs.partComponentGE.item, 3), ORANGE_DYE,
                 new ItemStack(ItemIDs.controls.item, 2), new ItemStack(ItemIDs.transformer.item, 4), new ItemStack(ItemIDs.copperWireFine.item, 8),
-                new ItemStack(ItemIDs.ironBogie.item, 12), new ItemStack(ItemIDs.steelframe.item, 4), TCItemStack(SteelIngotItem, 12), new ItemStack(WWCPItems.EP3.item), 1);
+                new ItemStack(ItemIDs.ironBogie.item, 12), new ItemStack(ItemIDs.steelframe.item, 4), SteelIngot(12), new ItemStack(WWCPItems.EP3.item), 1);
 
         //ES2
         betterAddRecipe(2, new ItemStack(ItemIDs.steelcab.item, 1), new ItemStack(ItemIDs.pantograph.item, 1), new ItemStack(ItemIDs.partComponentGE.item, 1), ORANGE_DYE,
                 new ItemStack(ItemIDs.controls.item, 1), new ItemStack(ItemIDs.transformer.item, 2), new ItemStack(ItemIDs.copperWireFine.item, 2),
-                new ItemStack(ItemIDs.ironBogie.item, 4), new ItemStack(ItemIDs.steelframe.item, 1), TCItemStack(SteelIngotItem, 2), new ItemStack(WWCPItems.ES2.item), 1);
+                new ItemStack(ItemIDs.ironBogie.item, 4), new ItemStack(ItemIDs.steelframe.item, 1), SteelIngot(2), new ItemStack(WWCPItems.ES2.item), 1);
 
         //EF4
         betterAddRecipe(2, new ItemStack(ItemIDs.steelcab.item, 2), new ItemStack(ItemIDs.pantograph.item, 2), new ItemStack(ItemIDs.partComponentGE.item, 4), ORANGE_DYE,
                 new ItemStack(ItemIDs.controls.item, 1), new ItemStack(ItemIDs.transformer.item, 4), new ItemStack(ItemIDs.copperWireFine.item, 6),
-                new ItemStack(ItemIDs.ironBogie.item, 12), new ItemStack(ItemIDs.steelframe.item, 4), TCItemStack(SteelIngotItem, 10), new ItemStack(WWCPItems.EF4.item), 1);
+                new ItemStack(ItemIDs.ironBogie.item, 12), new ItemStack(ItemIDs.steelframe.item, 4), SteelIngot(10), new ItemStack(WWCPItems.EF4.item), 1);
 
         //EP2
         betterAddRecipe(2, new ItemStack(ItemIDs.steelcab.item, 1), new ItemStack(ItemIDs.pantograph.item, 1), new ItemStack(ItemIDs.partComponentGE.item, 2), ORANGE_DYE,
                 new ItemStack(ItemIDs.controls.item, 1), new ItemStack(ItemIDs.transformer.item, 4), new ItemStack(ItemIDs.copperWireFine.item, 3),
-                new ItemStack(ItemIDs.ironBogie.item, 9), new ItemStack(ItemIDs.steelframe.item, 2), TCItemStack(SteelIngotItem, 5), new ItemStack(WWCPItems.EP2.item), 1);
+                new ItemStack(ItemIDs.ironBogie.item, 9), new ItemStack(ItemIDs.steelframe.item, 2), SteelIngot(5), new ItemStack(WWCPItems.EP2.item), 1);
 
         //SLRV
         betterAddRecipe(3, new ItemStack(ItemIDs.steelcab.item, 1), new ItemStack(ItemIDs.pantograph.item, 1), null, YELLOW_DYE,
                 new ItemStack(ItemIDs.controls.item, 1), new ItemStack(ItemIDs.transformer.item, 2), new ItemStack(ItemIDs.copperWireFine.item, 3),
-                new ItemStack(ItemIDs.ironBogie.item, 4), new ItemStack(ItemIDs.steelframe.item, 1), TCItemStack(SteelIngotItem, 4), new ItemStack(WWCPItems.SLRV.item), 1);
+                new ItemStack(ItemIDs.ironBogie.item, 4), new ItemStack(ItemIDs.steelframe.item, 1), SteelIngot(4), new ItemStack(WWCPItems.SLRV.item), 1);
 
 
         betterAddRecipe(3, new ItemStack(ItemIDs.steelcab.item, 1), //BR103
@@ -47,7 +47,7 @@ public class RecipesRegisterElectrics extends AbstractRecipeHandler {
                 new ItemStack(ItemIDs.copperWireFine.item, 2),
                 new ItemStack(WWCPCraftingItems.DBBogies.item, 2),
                 new ItemStack(ItemIDs.steelframe.item, 1),
-                TCItemStack(SteelIngotItem, 4),
+                SteelIngot(4),
                 new ItemStack(WWCPItems.BR103.item), 1);
 
         betterAddRecipe(3, new ItemStack(ItemIDs.steelcab.item, 1), //BR145
@@ -59,7 +59,7 @@ public class RecipesRegisterElectrics extends AbstractRecipeHandler {
                 new ItemStack(ItemIDs.copperWireFine.item, 3),
                 new ItemStack(WWCPCraftingItems.DBBogies.item, 2),
                 new ItemStack(ItemIDs.steelframe.item, 1),
-                TCItemStack(SteelIngotItem, 4),
+                SteelIngot(4),
                 new ItemStack(WWCPItems.BR145.item), 1);
 
         betterAddRecipe(3, new ItemStack(ItemIDs.steelcab.item, 1), //TRAXXF140AC1
@@ -71,7 +71,7 @@ public class RecipesRegisterElectrics extends AbstractRecipeHandler {
                 new ItemStack(ItemIDs.copperWireFine.item, 3),
                 new ItemStack(ItemIDs.bogie.item, 2),
                 new ItemStack(ItemIDs.steelframe.item, 1),
-                TCItemStack(SteelIngotItem, 4),
+                SteelIngot(4),
                 new ItemStack(WWCPItems.F140AC1.item), 1);
 
         betterAddRecipe(3, new ItemStack(ItemIDs.steelcab.item, 1), //TRAXXF140MS2
@@ -83,7 +83,7 @@ public class RecipesRegisterElectrics extends AbstractRecipeHandler {
                 new ItemStack(ItemIDs.copperWireFine.item, 3),
                 new ItemStack(ItemIDs.bogie.item, 2),
                 new ItemStack(ItemIDs.steelframe.item, 1),
-                TCItemStack(SteelIngotItem, 4),
+                SteelIngot(4),
                 new ItemStack(WWCPItems.TraxxF140MS2.item), 1);
 
         betterAddRecipe(3, new ItemStack(ItemIDs.steelcab.item, 1), //Taurus ES64U2
@@ -95,7 +95,7 @@ public class RecipesRegisterElectrics extends AbstractRecipeHandler {
                 new ItemStack(ItemIDs.copperWireFine.item, 3),
                 new ItemStack(ItemIDs.bogie.item, 2),
                 new ItemStack(ItemIDs.steelframe.item, 1),
-                TCItemStack(SteelIngotItem, 4),
+                SteelIngot(4),
                 new ItemStack(WWCPItems.ES64U2.item), 1);
 
         betterAddRecipe(3, new ItemStack(ItemIDs.steelcab.item, 1), //Taurus ES64U4
@@ -107,7 +107,7 @@ public class RecipesRegisterElectrics extends AbstractRecipeHandler {
                 new ItemStack(ItemIDs.copperWireFine.item, 3),
                 new ItemStack(ItemIDs.bogie.item, 2),
                 new ItemStack(ItemIDs.steelframe.item, 1),
-                TCItemStack(SteelIngotItem, 4),
+                SteelIngot(4),
                 new ItemStack(WWCPItems.ES64U4.item), 1);
 
     }

@@ -19,53 +19,53 @@ public class RecipesRegisterRollingStock extends AbstractRecipeHandler {
         //EP2_Center
         betterAddRecipe(3, new ItemStack(ItemIDs.steelcab.item, 1), null, null, ORANGE_DYE,
                 null, new ItemStack(ItemIDs.transformer.item, 1), new ItemStack(ItemIDs.copperWireFine.item, 2),
-                null, new ItemStack(ItemIDs.steelframe.item, 1), TCItemStack(SteelIngotItem, 4), new ItemStack(WWCPItems.EP2_Center.item), 1);
+                null, new ItemStack(ItemIDs.steelframe.item, 1), SteelIngot(4), new ItemStack(WWCPItems.EP2_Center.item), 1);
 
 
         //Paccar64Woodchip
         betterAddRecipe(2, null, null, null, BROWN_DYE,
                 null, new ItemStack(Blocks.chest, 1), null,
-                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 2), TCItemStack(SteelIngotItem, 6), new ItemStack(WWCPItems.Paccar64Woodchip.item), 1);
+                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 2), SteelIngot(6), new ItemStack(WWCPItems.Paccar64Woodchip.item), 1);
 
         betterAddRecipe(2, new ItemStack(ItemIDs.freightCarRibbing.item, 4), null, null, BROWN_DYE,
                 null, new ItemStack(Blocks.chest, 1), null,
-                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 2), TCItemStack(SteelIngotItem, 4), new ItemStack(WWCPItems.Gunderson596Woodchip.item), 1);
+                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 2), SteelIngot(4), new ItemStack(WWCPItems.Gunderson596Woodchip.item), 1);
 
 
         //OpenTriLevelAutorack
         betterAddRecipe(2, null, null, null, BROWN_DYE,
                 null, new ItemStack(Blocks.chest, 1), null,
-                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 6), TCItemStack(SteelIngotItem, 4), new ItemStack(WWCPItems.OpenTriLevelAutorack.item), 1);
+                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 6), SteelIngot(4), new ItemStack(WWCPItems.OpenTriLevelAutorack.item), 1);
 
 
         //VertAPacAutorack
         betterAddRecipe(2, null, null, null, YELLOW_DYE,
                 null, new ItemStack(Blocks.chest, 1), null,
-                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 4), TCItemStack(SteelIngotItem, 6), new ItemStack(WWCPItems.VertAPacAutorack.item), 1);
+                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 4), SteelIngot(6), new ItemStack(WWCPItems.VertAPacAutorack.item), 1);
 
 
         //XM4A
         betterAddRecipe(2, new ItemStack(ItemIDs.freightCarRibbing.item, 4), null, null, BROWN_DYE,
                 new ItemStack(Blocks.chest, 1), new ItemStack(ItemIDs.boxcarDoor.item, 2), null,
-                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 2), TCItemStack(SteelIngotItem, 2), new ItemStack(WWCPItems.XM4A.item), 1);
+                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 2), SteelIngot(2), new ItemStack(WWCPItems.XM4A.item), 1);
 
 
         //AAR 40ft Boxcar
         betterAddRecipe(2, null, null, null, BROWN_DYE,
                 new ItemStack(Blocks.chest, 1), new ItemStack(ItemIDs.boxcarDoor.item, 2), null,
-                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 1), TCItemStack(SteelIngotItem, 2), new ItemStack(WWCPItems.AAR40ft.item), 1);
+                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 1), SteelIngot(2), new ItemStack(WWCPItems.AAR40ft.item), 1);
 
 
         //PS2Early3Bay
         betterAddRecipe(2, new ItemStack(ItemIDs.freightCarRibbing.item, 4), null, null, WHITE_DYE,
                 new ItemStack(Blocks.chest, 1), new ItemStack(ItemIDs.hopperBay.item, 3), null,
-                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 2), TCItemStack(SteelIngotItem, 2), new ItemStack(WWCPItems.PS2Early3Bay.item), 1);
+                new ItemStack(ItemIDs.freightCarTruck.item, 2), new ItemStack(ItemIDs.steelframe.item, 2), SteelIngot(2), new ItemStack(WWCPItems.PS2Early3Bay.item), 1);
 
 
         //SLRVC
         betterAddRecipe(3, null, null, null, YELLOW_DYE,
                 null, new ItemStack(ItemIDs.transformer.item, 1), new ItemStack(ItemIDs.copperWireFine.item, 1),
-                new ItemStack(ItemIDs.ironBogie.item, 2), new ItemStack(ItemIDs.steelframe.item, 1), TCItemStack(SteelIngotItem, 2), new ItemStack(WWCPItems.SLRVC.item), 1);
+                new ItemStack(ItemIDs.ironBogie.item, 2), new ItemStack(ItemIDs.steelframe.item, 1), SteelIngot(2), new ItemStack(WWCPItems.SLRVC.item), 1);
 
 
         //GS Van
