@@ -110,7 +110,7 @@ public class EntityMZII extends DieselTrain
                                 texturePath = "textures/locomotive/Diesel/MZ/MzII/STTTMZ1413";
                                 break;
                             case "lightgrey":
-                                texturePath = "textures/locomotive/Diesel/MZ/MzII/BLSRTMZII";
+                                texturePath = "textures/locomotive/Diesel/MZ/MzII/TMZIIBLSR.png";
                                 break;
                             case "grey":
                                 texturePath = "textures/locomotive/Diesel/MZ/MzII/NRFABTMZ1411";
