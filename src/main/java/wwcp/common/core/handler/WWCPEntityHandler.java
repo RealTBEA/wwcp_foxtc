@@ -471,7 +471,7 @@ public class WWCPEntityHandler
                 .RegisterRollingStockEntity(WWCPItems.BR218_2.item,
                         new TrainRecord(Transport.V164_TB10().name, EntityBR218_2.class, WWCPItems.BR218_2.item,
                                 Transport.V164_TB10().additionalText2, Transport.V164_TB10().weightinKGs,
-                                new String[] {"Black","Red","Green","Magenta","Brown","Blue","Purple","Cyan","LightGrey","Grey","Pink","Lime"},
+                                new String[] {"Black","Red","Green","Magenta","Brown","Blue","Purple","Cyan","LightGrey"},
                                 5, 2, 1.75, (int)Transport.V164_TB10().topSpeed,
                                 (int)Transport.V164_TB10().metric_horsepower, 50, 160,
                                 0.65, -5.9f, 2975),
@@ -507,7 +507,7 @@ public class WWCPEntityHandler
                                 new String[] {"Green","Red"},
                                 5, 2, 0.95, (int)Transport.ClassMT().topSpeed,
                                 (int)Transport.ClassMT().metric_horsepower, 50, 60,
-                                0.95, -2.0f, 2000),
+                                0.95, -2.75f, 2000),
                         Instance()
                 );
 
