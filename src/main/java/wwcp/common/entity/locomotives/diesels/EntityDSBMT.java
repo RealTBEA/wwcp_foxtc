@@ -27,11 +27,11 @@ public class EntityDSBMT extends DieselTrain
     }
 
     public void updateRiderPosition() {
-        TraincraftUtil.updateRider(this, 0.55F, 0.2f, -0.3f);
+        TraincraftUtil.updateRider(this, 1.3F, 0.25f, -0.3f);
     }
 
     public float getOptimalDistance(EntityMinecart cart) {
-        return 2.4F;
+        return 1.65F;
     }
 
     @Override
@@ -64,13 +64,13 @@ public class EntityDSBMT extends DieselTrain
                 new TrainRenderRecord(wwcp.common.library.Info.modID,
                         EntityDSBMT.class, new DSBMT(),
                         "DSB MT",
-                        new float[] { -0.59F,0.15F,0.0F },
+                        new float[] { -1.4F,0.15F,0.0F },
                         new float[] { 0F, 180F, 180F },
                         null,
                         "smoke",
                         new ArrayList<double[]>() {
                             {
-                                add(new double[]{1.72D, 1.3D, 0D});
+                                add(new double[]{2.50D, 1.3D, 0D});
                             }},
                         "", null, 10, 2)
                 {
