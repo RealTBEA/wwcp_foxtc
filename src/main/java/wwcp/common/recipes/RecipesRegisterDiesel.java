@@ -182,7 +182,7 @@ public class RecipesRegisterDiesel extends AbstractRecipeHandler {
                 SteelIngot(2),
                 new ItemStack(WWCPItems.G322.item), 1);
 
-        betterAddRecipe(3, new ItemStack(ItemIDs.controls.item, 1), //G322
+        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 1), //Frichs Koeff
                 null,
                 new ItemStack(ItemIDs.steelframe.item, 2),
                 null,
@@ -194,7 +194,7 @@ public class RecipesRegisterDiesel extends AbstractRecipeHandler {
                 SteelIngot(2),
                 new ItemStack(WWCPItems.FrichsKoef.item), 1);
 
-        betterAddRecipe(3, new ItemStack(ItemIDs.controls.item, 1), //G322
+        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 1), //Frichs Ardelt
                 null,
                 new ItemStack(ItemIDs.steelframe.item, 2),
                 null,
@@ -206,7 +206,7 @@ public class RecipesRegisterDiesel extends AbstractRecipeHandler {
                 SteelIngot(2),
                 new ItemStack(WWCPItems.FrichsArdelt.item), 1);
 
-        betterAddRecipe(3, new ItemStack(ItemIDs.controls.item, 1), //G322
+        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 1), //DSB MH
                 null,
                 new ItemStack(ItemIDs.steelframe.item, 2),
                 null,
@@ -218,7 +218,7 @@ public class RecipesRegisterDiesel extends AbstractRecipeHandler {
                 SteelIngot(2),
                 new ItemStack(WWCPItems.DSBMH.item), 1);
 
-        betterAddRecipe(3, new ItemStack(ItemIDs.controls.item, 1), //G322
+        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 1), //DSB MT
                 null,
                 new ItemStack(ItemIDs.steelframe.item, 3),
                 null,
@@ -266,7 +266,7 @@ public class RecipesRegisterDiesel extends AbstractRecipeHandler {
                 SteelIngot(2),
                 new ItemStack(WWCPItems.MZIII.item), 1);
 
-        betterAddRecipe(3, new ItemStack(ItemIDs.controls.item, 2), //MZI
+        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 2), //MZI
                 null,
                 new ItemStack(ItemIDs.steelcab.item, 2),
                 new ItemStack(WWCPCraftingItems.Fan.item, 3),
@@ -278,7 +278,7 @@ public class RecipesRegisterDiesel extends AbstractRecipeHandler {
                 new ItemStack(ItemIDs.boiler.item, 1),
                 new ItemStack(WWCPItems.MZI.item), 1);
 
-        betterAddRecipe(3, new ItemStack(WWCPItems.MZI.item, 1), //MZII
+        betterAddRecipe(2, new ItemStack(WWCPItems.MZI.item, 1), //MZII
                 null,
                 new ItemStack(ItemIDs.partAlternator.item, 2),
                 new ItemStack(ItemIDs.partComponentEMD.item, 2),
