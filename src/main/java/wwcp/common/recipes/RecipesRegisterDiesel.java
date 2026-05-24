@@ -182,9 +182,9 @@ public class RecipesRegisterDiesel extends AbstractRecipeHandler {
                 SteelIngot(2),
                 new ItemStack(WWCPItems.G322.item), 1);
 
-        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 1), //Frichs Koeff
+        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 2), //Frichs Koeff
                 null,
-                new ItemStack(ItemIDs.steelframe.item, 2),
+                new ItemStack(ItemIDs.steelcab.item, 1),
                 null,
                 null,
                 new ItemStack(ItemIDs.transmition.item, 2),
@@ -194,7 +194,7 @@ public class RecipesRegisterDiesel extends AbstractRecipeHandler {
                 SteelIngot(2),
                 new ItemStack(WWCPItems.FrichsKoef.item), 1);
 
-        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 1), //Frichs Ardelt
+        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 2), //Frichs Ardelt
                 null,
                 new ItemStack(ItemIDs.steelframe.item, 2),
                 null,
@@ -202,28 +202,16 @@ public class RecipesRegisterDiesel extends AbstractRecipeHandler {
                 new ItemStack(ItemIDs.transmition.item, 3),
                 new ItemStack(ItemIDs.dieselengine.item, 3),
                 new ItemStack(ItemIDs.bogie.item, 2),
-                new ItemStack(ItemIDs.steelframe.item, 1),
+                new ItemStack(ItemIDs.steelcab.item, 1),
                 SteelIngot(2),
                 new ItemStack(WWCPItems.FrichsArdelt.item), 1);
 
-        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 1), //DSB MH
+        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 2), //DSB MT
                 null,
-                new ItemStack(ItemIDs.steelframe.item, 2),
-                null,
-                null,
-                new ItemStack(ItemIDs.transmition.item, 3),
-                new ItemStack(ItemIDs.dieselengine.item, 3),
-                new ItemStack(ItemIDs.bogie.item, 3),
-                new ItemStack(ItemIDs.steelframe.item, 2),
-                SteelIngot(2),
-                new ItemStack(WWCPItems.DSBMH.item), 1);
-
-        betterAddRecipe(2, new ItemStack(ItemIDs.controls.item, 1), //DSB MT
-                null,
-                new ItemStack(ItemIDs.steelframe.item, 3),
+                new ItemStack(ItemIDs.steelcab.item, 1),
                 null,
                 null,
-                new ItemStack(ItemIDs.transmition.item, 3),
+                new ItemStack(ItemIDs.electmotor.item, 2),
                 new ItemStack(ItemIDs.dieselengine.item, 3),
                 new ItemStack(ItemIDs.bogie.item, 4),
                 new ItemStack(ItemIDs.steelframe.item, 2),
