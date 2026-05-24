@@ -135,13 +135,13 @@ public class RecipesRegisterElectrics extends AbstractRecipeHandler {
                 new ItemStack(WWCPItems.E94.item), 1);
 
         //DSB EA
-        betterAddRecipe(2, new ItemStack(WWCPCraftingItems.Fan.item, 2),
+        betterAddRecipe(4, new ItemStack(ItemIDs.pantograph.item, 2),
                 null,
-                new ItemStack(ItemIDs.steelcab.item, 1),
-                GREEN_DYE,
+                new ItemStack(ItemIDs.steelcab.item, 2),
+                BLACK_DYE,
                 new ItemStack(ItemIDs.controls.item, 2),
                 new ItemStack(ItemIDs.generator.item, 1),
-                new ItemStack(ItemIDs.electmotor.item, 1),
+                new ItemStack(ItemIDs.electmotor.item, 2),
                 new ItemStack(ItemIDs.electronicCircuit.item, 2),
                 new ItemStack(ItemIDs.steelframe.item, 2),
                 SteelIngot(2),
